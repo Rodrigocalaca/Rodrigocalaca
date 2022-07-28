@@ -4,6 +4,10 @@
 
 (PT/BR) Meu nome é Rodrigo(ele/dele), Sou um desenvolvedor junior full stack trabalhando atualmente com C# wpf, melhorando todos os dias!
 
+### About me
+
+Although almost of my git repositorys has Python as a primary language I'm currently focusing at C# wpf, because I use that at my fulltime job. Python was a gateway to my programming life. Now I consinder myself more experience with C# wpf than Python, but with focus and study I can handle with both and others. Feel free to keep in touch using my contacts above. 
+
 ### Contatcs
 
 <div>
@@ -11,7 +15,7 @@
   <a href = "mailto:rodrigocalacadev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-### About me
+
 
 
 
