@@ -4,6 +4,13 @@
 
 (PT/BR) Meu nome é Rodrigo(ele/dele), Sou um desenvolvedor junior full stack trabalhando atualmente com C# wpf, melhorando todos os dias!
 
+### Contatcs
+
+<div>
+  <a href="https://www.linkedin.com/in/rodrigo-caetano-4a511b1a2" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+</div>
+
+
 
 
 <div>
