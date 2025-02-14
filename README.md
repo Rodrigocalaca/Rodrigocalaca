@@ -1,8 +1,8 @@
 ### Hello, Welcome to my GitHub profile!
 
-(EN/US) My name is Rodrigo(he/him), I'm a full stack junior dev currently working with C# wpf, improving everyday!
+(EN/US) My name is Rodrigo(he/him), I'm a full stack dev currently working with C# wpf, improving everyday!
 
-(PT/BR) Meu nome é Rodrigo(ele/dele), Sou um desenvolvedor junior full stack trabalhando atualmente com C# wpf, melhorando todos os dias!
+(PT/BR) Meu nome é Rodrigo(ele/dele), Sou um desenvolvedor full stack trabalhando atualmente com C# wpf, melhorando todos os dias!
 
 ### About me
 
