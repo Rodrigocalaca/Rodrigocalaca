@@ -9,6 +9,7 @@ I've been building web applications and APIs with C#/.NET for over 4 years, curr
 ### 🔧 What I work with
 
 - **Back-end:** C#, .NET, ASP.NET Core, RESTful APIs, SQL Server, Entity Framework Core, xUnit
+- **Also familiar with:** Java, Spring Boot
 - **Front-end:** React, TypeScript, JavaScript, Blazor
 - **DevOps:** Azure DevOps, GitLab CI/CD, Docker, Git
 - **Practices:** Clean Architecture, SOLID, DDD, Code Review, Agile (Scrum/Kanban)
@@ -49,6 +50,7 @@ Desenvolvo aplicações web e APIs com C#/.NET há mais de 4 anos, atualmente co
 ### 🔧 Com o que trabalho
 
 - **Back-end:** C#, .NET, ASP.NET Core, APIs RESTful, SQL Server, Entity Framework Core, xUnit
+- **Também tenho conhecimento em:** Java, Spring Boot
 - **Front-end:** React, TypeScript, JavaScript, Blazor
 - **DevOps:** Azure DevOps, GitLab CI/CD, Docker, Git
 - **Práticas:** Clean Architecture, SOLID, DDD, Code Review, Ágil (Scrum/Kanban)
